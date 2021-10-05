@@ -33,7 +33,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NerdStore.Catalogo.Applicat
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NerdStore.WebApp.MVC001", "src\NerdStore.WebApp.MVC001\NerdStore.WebApp.MVC001.csproj", "{A64E159F-BBA6-4B5D-92E2-D83CFE220E6B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NerdStore.WebApp.MVC", "src\NerdStore.WebApp.MVC\NerdStore.WebApp.MVC.csproj", "{30C15B32-577B-45A7-ABF3-B9A69F0072BD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NerdStore.WebApp.MVC002", "src\NerdStore.WebApp.MVC002\NerdStore.WebApp.MVC002.csproj", "{30C15B32-577B-45A7-ABF3-B9A69F0072BD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

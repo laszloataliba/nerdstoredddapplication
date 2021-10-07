@@ -124,3 +124,7 @@ C:\Users\lataliba\Desktop\NerdStore\src\NerdStore.WebApp.MVC\obj\Debug\netcoreap
 C:\Users\lataliba\Desktop\NerdStore\src\NerdStore.WebApp.MVC\obj\Debug\netcoreapp3.1\NerdStore.WebApp.MVC.dll
 C:\Users\lataliba\Desktop\NerdStore\src\NerdStore.WebApp.MVC\obj\Debug\netcoreapp3.1\NerdStore.WebApp.MVC.pdb
 C:\Users\lataliba\Desktop\NerdStore\src\NerdStore.WebApp.MVC\obj\Debug\netcoreapp3.1\NerdStore.WebApp.MVC.genruntimeconfig.cache
+C:\Users\lataliba\Desktop\NerdStore\src\NerdStore.WebApp.MVC\obj\Debug\netcoreapp3.1\Razor\Views\AdminProdutos\AtualizarProduto.cshtml.g.cs
+C:\Users\lataliba\Desktop\NerdStore\src\NerdStore.WebApp.MVC\obj\Debug\netcoreapp3.1\Razor\Views\AdminProdutos\Estoque.cshtml.g.cs
+C:\Users\lataliba\Desktop\NerdStore\src\NerdStore.WebApp.MVC\obj\Debug\netcoreapp3.1\Razor\Views\AdminProdutos\Index.cshtml.g.cs
+C:\Users\lataliba\Desktop\NerdStore\src\NerdStore.WebApp.MVC\obj\Debug\netcoreapp3.1\Razor\Views\AdminProdutos\NovoProduto.cshtml.g.cs

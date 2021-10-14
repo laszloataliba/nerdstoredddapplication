@@ -7,7 +7,6 @@ C:\Users\lataliba\Desktop\NerdStore\src\NerdStore.Catalogo.Domain\obj\Debug\netc
 C:\Users\lataliba\Desktop\NerdStore\src\NerdStore.Catalogo.Domain\obj\Debug\netcoreapp3.1\NerdStore.Catalogo.Domain.AssemblyInfoInputs.cache
 C:\Users\lataliba\Desktop\NerdStore\src\NerdStore.Catalogo.Domain\obj\Debug\netcoreapp3.1\NerdStore.Catalogo.Domain.AssemblyInfo.cs
 C:\Users\lataliba\Desktop\NerdStore\src\NerdStore.Catalogo.Domain\obj\Debug\netcoreapp3.1\NerdStore.Catalogo.Domain.csproj.CoreCompileInputs.cache
-C:\Users\lataliba\Desktop\NerdStore\src\NerdStore.Catalogo.Domain\obj\Debug\netcoreapp3.1\NerdStore.Catalogo.Domain.csproj.CopyComplete
 C:\Users\lataliba\Desktop\NerdStore\src\NerdStore.Catalogo.Domain\obj\Debug\netcoreapp3.1\NerdStore.Catalogo.Domain.dll
 C:\Users\lataliba\Desktop\NerdStore\src\NerdStore.Catalogo.Domain\obj\Debug\netcoreapp3.1\NerdStore.Catalogo.Domain.pdb
 C:\Users\lataliba\Desktop\NerdStore\src\NerdStore.Catalogo.Domain\obj\Debug\netcoreapp3.1\NerdStore.Catalogo.Domain.GeneratedMSBuildEditorConfig.editorconfig

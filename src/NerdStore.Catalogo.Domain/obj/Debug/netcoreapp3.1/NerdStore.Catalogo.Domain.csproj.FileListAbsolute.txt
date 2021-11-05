@@ -10,3 +10,4 @@ C:\Users\lataliba\Desktop\NerdStore\src\NerdStore.Catalogo.Domain\obj\Debug\netc
 C:\Users\lataliba\Desktop\NerdStore\src\NerdStore.Catalogo.Domain\obj\Debug\netcoreapp3.1\NerdStore.Catalogo.Domain.dll
 C:\Users\lataliba\Desktop\NerdStore\src\NerdStore.Catalogo.Domain\obj\Debug\netcoreapp3.1\NerdStore.Catalogo.Domain.pdb
 C:\Users\lataliba\Desktop\NerdStore\src\NerdStore.Catalogo.Domain\obj\Debug\netcoreapp3.1\NerdStore.Catalogo.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lataliba\Desktop\NerdStore\src\NerdStore.Catalogo.Domain\obj\Debug\netcoreapp3.1\NerdStore.Catalogo.Domain.csproj.CopyComplete

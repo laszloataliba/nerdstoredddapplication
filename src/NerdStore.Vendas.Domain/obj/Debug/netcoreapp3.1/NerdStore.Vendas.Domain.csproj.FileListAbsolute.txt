@@ -1,0 +1,13 @@
+C:\Users\lataliba\Desktop\NerdStore\src\NerdStore.Vendas.Domain\bin\Debug\netcoreapp3.1\NerdStore.Vendas.Domain.deps.json
+C:\Users\lataliba\Desktop\NerdStore\src\NerdStore.Vendas.Domain\bin\Debug\netcoreapp3.1\NerdStore.Vendas.Domain.dll
+C:\Users\lataliba\Desktop\NerdStore\src\NerdStore.Vendas.Domain\bin\Debug\netcoreapp3.1\NerdStore.Vendas.Domain.pdb
+C:\Users\lataliba\Desktop\NerdStore\src\NerdStore.Vendas.Domain\bin\Debug\netcoreapp3.1\NerdStore.Core.dll
+C:\Users\lataliba\Desktop\NerdStore\src\NerdStore.Vendas.Domain\bin\Debug\netcoreapp3.1\NerdStore.Core.pdb
+C:\Users\lataliba\Desktop\NerdStore\src\NerdStore.Vendas.Domain\obj\Debug\netcoreapp3.1\NerdStore.Vendas.Domain.csproj.AssemblyReference.cache
+C:\Users\lataliba\Desktop\NerdStore\src\NerdStore.Vendas.Domain\obj\Debug\netcoreapp3.1\NerdStore.Vendas.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lataliba\Desktop\NerdStore\src\NerdStore.Vendas.Domain\obj\Debug\netcoreapp3.1\NerdStore.Vendas.Domain.AssemblyInfoInputs.cache
+C:\Users\lataliba\Desktop\NerdStore\src\NerdStore.Vendas.Domain\obj\Debug\netcoreapp3.1\NerdStore.Vendas.Domain.AssemblyInfo.cs
+C:\Users\lataliba\Desktop\NerdStore\src\NerdStore.Vendas.Domain\obj\Debug\netcoreapp3.1\NerdStore.Vendas.Domain.csproj.CoreCompileInputs.cache
+C:\Users\lataliba\Desktop\NerdStore\src\NerdStore.Vendas.Domain\obj\Debug\netcoreapp3.1\NerdStore.Vendas.Domain.csproj.CopyComplete
+C:\Users\lataliba\Desktop\NerdStore\src\NerdStore.Vendas.Domain\obj\Debug\netcoreapp3.1\NerdStore.Vendas.Domain.dll
+C:\Users\lataliba\Desktop\NerdStore\src\NerdStore.Vendas.Domain\obj\Debug\netcoreapp3.1\NerdStore.Vendas.Domain.pdb

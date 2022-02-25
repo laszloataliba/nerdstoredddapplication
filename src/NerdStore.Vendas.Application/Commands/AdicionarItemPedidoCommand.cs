@@ -1,7 +1,5 @@
 ﻿using NerdStore.Core.Messages;
 using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace NerdStore.Vendas.Application.Commands
 {
@@ -20,6 +18,13 @@ namespace NerdStore.Vendas.Application.Commands
             Nome = nome;
             Quantidade = quantidade;
             ValorUnitario = valorUnitario;
+        }
+
+        public override bool EhValido()
+        {
+            ValidationResult = new AdicionarItemPedidoValidation().Validate(this);
+
+            return ValidationResult.IsValid;
         }
     }
 }

@@ -43,7 +43,6 @@ namespace NerdStore.Vendas.Application.Commands
                 {
                     _pedidoRepository.AdicionarItem(pedidoItem);
                 }
-
             }
 
             return await _pedidoRepository.UnitOfWork.Commit();

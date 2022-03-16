@@ -100,3 +100,6 @@ C:\Users\lataliba\Desktop\NerdStore\tests\NerdStore.Catalogo.Domain.Tests\obj\De
 C:\Users\lataliba\Desktop\NerdStore\tests\NerdStore.Catalogo.Domain.Tests\obj\Debug\netcoreapp3.1\NerdStore.Catalogo.Domain.Tests.pdb
 C:\Users\lataliba\Desktop\NerdStore\tests\NerdStore.Catalogo.Domain.Tests\obj\Debug\netcoreapp3.1\NerdStore.Catalogo.Domain.Tests.genruntimeconfig.cache
 C:\Users\lataliba\Desktop\NerdStore\tests\NerdStore.Catalogo.Domain.Tests\obj\Debug\netcoreapp3.1\NerdStore.Catalogo.Domain.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lataliba\Desktop\NerdStore\tests\NerdStore.Catalogo.Domain.Tests\bin\Debug\netcoreapp3.1\FluentValidation.dll
+C:\Users\lataliba\Desktop\NerdStore\tests\NerdStore.Catalogo.Domain.Tests\bin\Debug\netcoreapp3.1\FluentValidation.AspNetCore.dll
+C:\Users\lataliba\Desktop\NerdStore\tests\NerdStore.Catalogo.Domain.Tests\bin\Debug\netcoreapp3.1\FluentValidation.DependencyInjectionExtensions.dll

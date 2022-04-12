@@ -44,6 +44,7 @@
           "NerdStore.Catalogo.Domain": "1.0.0",
           "NerdStore.Core": "1.0.0",
           "NerdStore.Vendas.Application": "1.0.0",
+          "NerdStore.Vendas.Data": "1.0.0",
           "Microsoft.AspNetCore.Antiforgery": "3.1.0.0",
           "Microsoft.AspNetCore.Authentication.Abstractions": "3.1.0.0",
           "Microsoft.AspNetCore.Authentication.Cookies": "3.1.0.0",
@@ -1807,6 +1808,19 @@
         },
         "compile": {
           "NerdStore.Vendas.Application.dll": {}
+        }
+      },
+      "NerdStore.Vendas.Data/1.0.0": {
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore": "3.1.19",
+          "Microsoft.EntityFrameworkCore.Relational": "3.1.19",
+          "NerdStore.Vendas.Domain": "1.0.0"
+        },
+        "runtime": {
+          "NerdStore.Vendas.Data.dll": {}
+        },
+        "compile": {
+          "NerdStore.Vendas.Data.dll": {}
         }
       },
       "NerdStore.Vendas.Domain/1.0.0": {
@@ -4282,6 +4296,11 @@
       "sha512": ""
     },
     "NerdStore.Vendas.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NerdStore.Vendas.Data/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

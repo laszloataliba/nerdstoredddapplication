@@ -7,3 +7,14 @@ C:\Users\lataliba\Desktop\NerdStore\src\NerdStore.Core\obj\Debug\netcoreapp3.1\N
 C:\Users\lataliba\Desktop\NerdStore\src\NerdStore.Core\obj\Debug\netcoreapp3.1\NerdStore.Core.dll
 C:\Users\lataliba\Desktop\NerdStore\src\NerdStore.Core\obj\Debug\netcoreapp3.1\NerdStore.Core.pdb
 C:\Users\lataliba\Desktop\NerdStore\src\NerdStore.Core\obj\Debug\netcoreapp3.1\NerdStore.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lataliba\OneDrive - Cinemark Holdings, Inc\Desktop\NerdStore\src\NerdStore.Core\bin\Debug\netcoreapp3.1\NerdStore.Core.deps.json
+C:\Users\lataliba\OneDrive - Cinemark Holdings, Inc\Desktop\NerdStore\src\NerdStore.Core\bin\Debug\netcoreapp3.1\NerdStore.Core.dll
+C:\Users\lataliba\OneDrive - Cinemark Holdings, Inc\Desktop\NerdStore\src\NerdStore.Core\bin\Debug\netcoreapp3.1\NerdStore.Core.pdb
+C:\Users\lataliba\OneDrive - Cinemark Holdings, Inc\Desktop\NerdStore\src\NerdStore.Core\obj\Debug\netcoreapp3.1\NerdStore.Core.csproj.AssemblyReference.cache
+C:\Users\lataliba\OneDrive - Cinemark Holdings, Inc\Desktop\NerdStore\src\NerdStore.Core\obj\Debug\netcoreapp3.1\NerdStore.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lataliba\OneDrive - Cinemark Holdings, Inc\Desktop\NerdStore\src\NerdStore.Core\obj\Debug\netcoreapp3.1\NerdStore.Core.AssemblyInfoInputs.cache
+C:\Users\lataliba\OneDrive - Cinemark Holdings, Inc\Desktop\NerdStore\src\NerdStore.Core\obj\Debug\netcoreapp3.1\NerdStore.Core.AssemblyInfo.cs
+C:\Users\lataliba\OneDrive - Cinemark Holdings, Inc\Desktop\NerdStore\src\NerdStore.Core\obj\Debug\netcoreapp3.1\NerdStore.Core.csproj.CoreCompileInputs.cache
+C:\Users\lataliba\OneDrive - Cinemark Holdings, Inc\Desktop\NerdStore\src\NerdStore.Core\obj\Debug\netcoreapp3.1\NerdStore.Core.sourcelink.json
+C:\Users\lataliba\OneDrive - Cinemark Holdings, Inc\Desktop\NerdStore\src\NerdStore.Core\obj\Debug\netcoreapp3.1\NerdStore.Core.dll
+C:\Users\lataliba\OneDrive - Cinemark Holdings, Inc\Desktop\NerdStore\src\NerdStore.Core\obj\Debug\netcoreapp3.1\NerdStore.Core.pdb

@@ -15,3 +15,21 @@ C:\Users\lataliba\Desktop\NerdStore\src\NerdStore.Catalogo.Application\obj\Debug
 C:\Users\lataliba\Desktop\NerdStore\src\NerdStore.Catalogo.Application\obj\Debug\netcoreapp3.1\NerdStore.Catalogo.Application.dll
 C:\Users\lataliba\Desktop\NerdStore\src\NerdStore.Catalogo.Application\obj\Debug\netcoreapp3.1\NerdStore.Catalogo.Application.pdb
 C:\Users\lataliba\Desktop\NerdStore\src\NerdStore.Catalogo.Application\obj\Debug\netcoreapp3.1\NerdStore.Catalogo.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lataliba\OneDrive - Cinemark Holdings, Inc\Desktop\NerdStore\src\NerdStore.Catalogo.Application\bin\Debug\netcoreapp3.1\NerdStore.Catalogo.Application.deps.json
+C:\Users\lataliba\OneDrive - Cinemark Holdings, Inc\Desktop\NerdStore\src\NerdStore.Catalogo.Application\bin\Debug\netcoreapp3.1\NerdStore.Catalogo.Application.dll
+C:\Users\lataliba\OneDrive - Cinemark Holdings, Inc\Desktop\NerdStore\src\NerdStore.Catalogo.Application\bin\Debug\netcoreapp3.1\NerdStore.Catalogo.Application.pdb
+C:\Users\lataliba\OneDrive - Cinemark Holdings, Inc\Desktop\NerdStore\src\NerdStore.Catalogo.Application\bin\Debug\netcoreapp3.1\NerdStore.Catalogo.Data.dll
+C:\Users\lataliba\OneDrive - Cinemark Holdings, Inc\Desktop\NerdStore\src\NerdStore.Catalogo.Application\bin\Debug\netcoreapp3.1\NerdStore.Catalogo.Domain.dll
+C:\Users\lataliba\OneDrive - Cinemark Holdings, Inc\Desktop\NerdStore\src\NerdStore.Catalogo.Application\bin\Debug\netcoreapp3.1\NerdStore.Core.dll
+C:\Users\lataliba\OneDrive - Cinemark Holdings, Inc\Desktop\NerdStore\src\NerdStore.Catalogo.Application\bin\Debug\netcoreapp3.1\NerdStore.Catalogo.Data.pdb
+C:\Users\lataliba\OneDrive - Cinemark Holdings, Inc\Desktop\NerdStore\src\NerdStore.Catalogo.Application\bin\Debug\netcoreapp3.1\NerdStore.Catalogo.Domain.pdb
+C:\Users\lataliba\OneDrive - Cinemark Holdings, Inc\Desktop\NerdStore\src\NerdStore.Catalogo.Application\bin\Debug\netcoreapp3.1\NerdStore.Core.pdb
+C:\Users\lataliba\OneDrive - Cinemark Holdings, Inc\Desktop\NerdStore\src\NerdStore.Catalogo.Application\obj\Debug\netcoreapp3.1\NerdStore.Catalogo.Application.csproj.AssemblyReference.cache
+C:\Users\lataliba\OneDrive - Cinemark Holdings, Inc\Desktop\NerdStore\src\NerdStore.Catalogo.Application\obj\Debug\netcoreapp3.1\NerdStore.Catalogo.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lataliba\OneDrive - Cinemark Holdings, Inc\Desktop\NerdStore\src\NerdStore.Catalogo.Application\obj\Debug\netcoreapp3.1\NerdStore.Catalogo.Application.AssemblyInfoInputs.cache
+C:\Users\lataliba\OneDrive - Cinemark Holdings, Inc\Desktop\NerdStore\src\NerdStore.Catalogo.Application\obj\Debug\netcoreapp3.1\NerdStore.Catalogo.Application.AssemblyInfo.cs
+C:\Users\lataliba\OneDrive - Cinemark Holdings, Inc\Desktop\NerdStore\src\NerdStore.Catalogo.Application\obj\Debug\netcoreapp3.1\NerdStore.Catalogo.Application.csproj.CoreCompileInputs.cache
+C:\Users\lataliba\OneDrive - Cinemark Holdings, Inc\Desktop\NerdStore\src\NerdStore.Catalogo.Application\obj\Debug\netcoreapp3.1\NerdStore.Catalogo.Application.sourcelink.json
+C:\Users\lataliba\OneDrive - Cinemark Holdings, Inc\Desktop\NerdStore\src\NerdStore.Catalogo.Application\obj\Debug\netcoreapp3.1\NerdStor.4E99A674.Up2Date
+C:\Users\lataliba\OneDrive - Cinemark Holdings, Inc\Desktop\NerdStore\src\NerdStore.Catalogo.Application\obj\Debug\netcoreapp3.1\NerdStore.Catalogo.Application.dll
+C:\Users\lataliba\OneDrive - Cinemark Holdings, Inc\Desktop\NerdStore\src\NerdStore.Catalogo.Application\obj\Debug\netcoreapp3.1\NerdStore.Catalogo.Application.pdb

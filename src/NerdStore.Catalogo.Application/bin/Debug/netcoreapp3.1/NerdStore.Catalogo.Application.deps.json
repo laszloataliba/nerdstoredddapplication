@@ -379,7 +379,10 @@
           "NerdStore.Core": "1.0.0"
         },
         "runtime": {
-          "NerdStore.Catalogo.Data.dll": {}
+          "NerdStore.Catalogo.Data.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "NerdStore.Catalogo.Domain/1.0.0": {
@@ -388,7 +391,10 @@
           "NerdStore.Core": "1.0.0"
         },
         "runtime": {
-          "NerdStore.Catalogo.Domain.dll": {}
+          "NerdStore.Catalogo.Domain.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "NerdStore.Core/1.0.0": {
@@ -396,7 +402,10 @@
           "MediatR": "9.0.0"
         },
         "runtime": {
-          "NerdStore.Core.dll": {}
+          "NerdStore.Core.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }

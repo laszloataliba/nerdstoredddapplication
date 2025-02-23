@@ -11,12 +11,11 @@
 using System;
 using System.Reflection;
 
-[assembly: Microsoft.AspNetCore.Identity.UI.UIFrameworkAttribute("Bootstrap4")]
 [assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("aspnet-NerdStore.WebApp.MVC-0BB2D720-F4A2-450A-8CF2-33932181C4EE")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("NerdStore.WebApp.MVC001")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+36076cb091c4f414a7b5b7e27f28ecb4a693dd14")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ebc0fc130d714787c3cca5c9ed64fa934f640750")]
 [assembly: System.Reflection.AssemblyProductAttribute("NerdStore.WebApp.MVC001")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NerdStore.WebApp.MVC001")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
